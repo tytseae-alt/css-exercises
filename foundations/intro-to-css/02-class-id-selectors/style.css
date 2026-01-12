@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.c1, .c3 {
+    background-color: rgb(231, 122, 122);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.c3 {
+    font-size: 24px; 
+}
+#no-2 {
+    color: rgb(80, 80, 160); 
+    font-size: 36px; 
+}
+
+#no-4 {
+    background-color: rgb(171, 233, 171);
+    font-weight: bold;
+    font-size: 24px;
+}
+ 
