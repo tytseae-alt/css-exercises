@@ -3,7 +3,7 @@
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-.c3 {
+#no-4, .c3 { 
     font-size: 24px; 
 }
 #no-2 {
@@ -14,6 +14,6 @@
 #no-4 {
     background-color: rgb(171, 233, 171);
     font-weight: bold;
-    font-size: 24px;
+    
 }
  
