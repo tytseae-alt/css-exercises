@@ -12,6 +12,26 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: space-start;
+  gap: 8px;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.left {
+    
+    display: flex;
 }
 
 .profile-image {
@@ -23,6 +43,8 @@ body {
 }
 
 .logo {
+  display: flex;
+  justify-content:flex-start;
   color: rebeccapurple;
   font-size: 32px;
   font-weight: 900;
